@@ -3,7 +3,7 @@
 
 The NowGUI project is meant to sit on with the AppBuild and CatalogMgr binaries for those using NowDeploy.  It's purpose is to give a graphical user interface to these applications.
 
-![NowGUI Screen Shot](nowdeploy.png)
+![NowGUI Screen Shot](https://raw.githubusercontent.com/NowDeploy/NowGUI/master/NowDeploy.png)
 
 ## Setup
 
