@@ -3,6 +3,8 @@
 
 The NowGUI project is meant to sit on with the AppBuild and CatalogMgr binaries for those using NowDeploy.  It's purpose is to give a graphical user interface to these applications.
 
+![NowGUI Screen Shot](nowdeploy.png)
+
 ## Setup
 
 1) Download either the binary (NowGUI.exe) or the PowerShell script (NowDeploy for ConfigMgr.ps1) into the same folder that you keep AppBuild.exe and CatalogMgr.exe.
