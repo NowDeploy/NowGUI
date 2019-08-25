@@ -35,7 +35,7 @@ This will list all applications within your catalog XML file.  You can update th
 
 ### Catalog Action List
 
-The AppBuild application allows for a script to run once the import of applications is complete.  For more information, see [this post]([https://support.nowdeploy.com/threads/release-notes-for-beta-builds.14/](https://support.nowdeploy.com/threads/release-notes-for-beta-builds.14/)) until the documentation is complete.
+The AppBuild application allows for a script to run once the import of applications is complete.  For more information, see [this post](https://support.nowdeploy.com/threads/release-notes-for-beta-builds.14/](https://support.nowdeploy.com/threads/release-notes-for-beta-builds.14/) until the documentation is complete.
 
 ## Contributing
 If you'd like to contribute to the NowGUI project, pull requests are welcome.  The [NowDeploy for ConfigMgr.ps1](https://github.com/NowDeploy/NowGUI/blob/master/NowDeploy%20for%20ConfigMgr.ps1 "NowDeploy for ConfigMgr.ps1") file should be considered read-only.  All changes should be made within the sources folder.
