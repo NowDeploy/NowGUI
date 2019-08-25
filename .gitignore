@@ -7,4 +7,4 @@
 CustomMenu.inf
 AppBuild.exe
 CatalogMgr.exe
-source/bin/x64/NowGUI for NowDeploy.exe
+Source/bin/x64/*
