@@ -7,7 +7,7 @@ The NowGUI project is meant to sit on with the AppBuild and CatalogMgr binaries 
 
 ## Setup
 
-1) Download either the binary (NowGUI.exe) or the PowerShell script (NowDeploy for ConfigMgr.ps1) into the same folder that you keep AppBuild.exe and CatalogMgr.exe.
+1) Download either the binary (NowGUI.exe) or the PowerShell script (NowGUI.ps1) into the same folder that you keep AppBuild.exe and CatalogMgr.exe.
 1) Add or edit any settings that were pulled from the Windows registry under *Configuration* and then click *Save Changes*.  You can elect to save your configuration to either HKLM or HKCU.
 1) If you already have a catalog.xml file, point to it where prompted.  Your existing catalog settings will be shown.  If you do not already have an XML, enter the path where you would like one to be saved.
 1) Click *Download/Update Catalog* to sync with the NowDeploy cloud server.
@@ -40,4 +40,4 @@ This will list all applications within your catalog XML file.  You can update th
 The AppBuild application allows for a script to run once the import of applications is complete.  For more information, see [this post](https://support.nowdeploy.com/threads/release-notes-for-beta-builds.14/) until the documentation is complete.
 
 ## Contributing
-If you'd like to contribute to the NowGUI project, pull requests are welcome.  The [NowDeploy for ConfigMgr.ps1](https://github.com/NowDeploy/NowGUI/blob/master/NowDeploy%20for%20ConfigMgr.ps1 "NowDeploy for ConfigMgr.ps1") file should be considered read-only.  All changes should be made within the sources folder.
+If you'd like to contribute to the NowGUI project, pull requests are welcome.  The [NowGUI.ps1](https://github.com/NowDeploy/NowGUI/blob/master/NowGUI.ps1 "NowGUI.ps1") file should be considered read-only.  All changes should be made within the sources folder.
