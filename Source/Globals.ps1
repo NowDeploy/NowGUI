@@ -2,8 +2,6 @@
 # Declare Global Variables and Functions here
 #--------------------------------------------
 
-
-#Sample function that provides the location of the script
 function Get-ScriptDirectory
 {
 <#
